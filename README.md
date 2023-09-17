@@ -11,6 +11,7 @@
 Для скачивания:
 gh repo clone JamradisePalms/LRU_Cache_app
 https://github.com/JamradisePalms/LRU_Cache_app.git
+Git Bash: git clone https://github.com/JamradisePalms/LRU_Cache_app.git
 
 5.4 - в доработке
 5.5 - в доработке
