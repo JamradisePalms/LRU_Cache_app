@@ -45,6 +45,8 @@ typedef struct Lru_Cache {
 int main() {
     long long int size_of_cache, N;
     long long int value, count = 0;
+    
+    
     LRU_Cache Cache_table;
 
     cin >> size_of_cache >> N;
