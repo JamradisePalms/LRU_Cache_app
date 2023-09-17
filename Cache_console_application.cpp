@@ -1,6 +1,5 @@
 // Cache_console_application.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -58,10 +57,7 @@ int main() {
         cin >> value;
         count += Cache_table.find(value);
     }
-    cout << count << '\n';
-    for (int i = 0; i < Cache_table.cache_table.size(); i++) {
-        cout << Cache_table.cache_table[i] << '\t';
-    }
+    cout << count;
 
     return 0;
 }
