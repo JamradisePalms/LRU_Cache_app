@@ -8,7 +8,7 @@ typedef struct Lru_Cache {
     int find(int value) {
         int answ = 0;
         int index = -1;
-        int tmp = -1;
+        int tmp;
         for (int i = 0; i < cache_table.size(); i++) {
             if (cache_table[i] == value) {
                 answ = 1;
