@@ -5,8 +5,6 @@ using namespace std;
 typedef struct Lru_Cache {
     long long int size_of_cache;
     vector <long long int> cache_table;
-    int aaaaaa;
-
     int find(int value) {
         int answ = 0;
         int index = -1;
