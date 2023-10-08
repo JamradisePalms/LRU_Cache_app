@@ -1,7 +1,7 @@
 <h1 align="center">LRU <a href="https://daniilshat.ru/" target="_blank">Cache</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
-# Данный репозиторий представляет из себя простую реализацию алгоритма кэширование (LRU)
+# Данный репозиторий представляет из себя простую реализацию алгоритма кэширования (LRU)
   
 ## Авторы:   
 * Кораблев Д.А.  
